@@ -23,11 +23,3 @@ Time taken for each search
 
 Outputs results and performance d
 
-File Structure:
-boyermoore_PES2UG23CS384.c: Main implementation
-
-input.txt: Input file containing test cases (text and pattern)
-
-boyermoore_output.txt: Output with detailed matching steps
-
-boyermoore_values.txt: Summary log with pattern length, text length, comparisons, and time taken
